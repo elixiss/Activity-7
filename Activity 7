@@ -1,0 +1,113 @@
+<html>
+<head><h3 align="center">My Activity 7<h3></head>
+<body>
+<p>
+<table border="1px">
+<body style="background-color:#FDEBD0;">
+<h4 align="center">CLASS SCHEDULE</h4>
+<tr>
+<th bgcolor="#F2D7D5">SUBJECT</th>
+<th bgcolor="#F5B7B1">MONDAY</th>
+<th bgcolor="#EBDEF0">TUESDAY</th>
+<th bgcolor="#E8DAEF">WEDNESDAY</th>
+<th bgcolor="#D4E6F1">THURSDAY</th>
+<th bgcolor="#D1F2EB">FRIDAY</th>
+<th bgcolor="#D5F5E3">TEACHER</th>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">HOMEROOM</td>
+<td bgcolor="#F5B7B1">6:30-7:00am</td>
+<td bgcolor="#EBDEF0">6:30-7:00am</td>
+<td bgcolor="#E8DAEF">6:30-7:00am</td>
+<td bgcolor="#D4E6F1">6:30-7:00am</td>
+<td bgcolor="#D1F2EB">8:00-8:30am</td>
+<td bgcolor="#D5F5E3">Ms.Angela Espiritu</td>
+</body>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">COMPROG</td>
+<td bgcolor="#F5B7B1">7:00-9:30am</td>
+<td bgcolor="#EBDEF0">7:00-9:30am</td>
+<td bgcolor="#E8DAEF"></td>
+<td bgcolor="#D4E6F1"></td>
+<td bgcolor="#D1F2EB"></td>
+<td bgcolor="#D5F5E3">Mr.Larry June Pagad</td>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">SS1</td>
+<td bgcolor="#F5B7B1"></td>
+<td bgcolor="#EBDEF0"></td>
+<td bgcolor="#E8DAEF">7:00-8:30am</td>
+<td bgcolor="#D4E6F1">7:00-8:00am</td>
+<td bgcolor="#D1F2EB"></td>
+<td bgcolor="#D5F5E3">Mr.Antonio Gonzales</td>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">GEN MATH</td>
+<td bgcolor="#F5B7B1"></td>
+<td bgcolor="#EBDEF0"></td>
+<td bgcolor="#E8DAEF">8:30-9:30am</td>
+<td bgcolor="#D4E6F1">8:00-9:30am</td>
+<td bgcolor="#D1F2EB"></td>
+<td bgcolor="#D5F5E3">Ms.Jovie Ann España</td>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">ENGLISH1</td>
+<td bgcolor="#F5B7B1"></td>
+<td bgcolor="#EBDEF0">10:00-11:30am</td>
+<td bgcolor="#E8DAEF">10:00-11:00am</td>
+<td bgcolor="#D4E6F1"></td>
+<td bgcolor="#D1F2EB"></td>
+<td bgcolor="#D5F5E3">Ms.Shaira Constantino</td>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">ENGLISH2</td>
+<td bgcolor="#F5B7B1"></td>
+<td bgcolor="#EBDEF0"></td>
+<td bgcolor="#E8DAEF"></td>
+<td bgcolor="#D4E6F1">10:00-11:00am</td>
+<td bgcolor="#D1F2EB">10:00-11:30am</td>
+<td bgcolor="#D5F5E3">Ms.Shaira Constantino</td>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">VALED</td>
+<td bgcolor="#F5B7B1"></td>
+<td bgcolor="#EBDEF0"></td>
+<td bgcolor="#E8DAEF"></td>
+<td bgcolor="#D4E6F1"></td>
+<td bgcolor="#D1F2EB">8:30-9:30am</td>
+<td bgcolor="#D5F5E3">Mr.Antonio Gonzales</td>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">PE1</td>
+<td bgcolor="#F5B7B1">10:00-10:30am</td>
+<td bgcolor="#EBDEF0"></td>
+<td bgcolor="#E8DAEF"></td>
+<td bgcolor="#D4E6F1"></td>
+<td bgcolor="#D1F2EB"></td>
+<td bgcolor="#D5F5E3">Mr.Philip Coma</td>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">FILIPINO1</td>
+<td bgcolor="#F5B7B1">11:00-12:30pm</td>
+<td bgcolor="#EBDEF0">11:30-12:30pm</td>
+<td bgcolor="#E8DAEF"></td>
+<td bgcolor="#D4E6F1"></td>
+<td bgcolor="#D1F2EB"></td>
+<td bgcolor="#D5F5E3">Mrs.Marissa Ignacio</td>
+</tr>
+<tr>
+<td bgcolor="#F2D7D5">FILIPINO2</td>
+<td bgcolor="#F5B7B1"></td>
+<td bgcolor="#EBDEF0"></td>
+<td bgcolor="#E8DAEF">11:30-12:30pm</td>
+<td bgcolor="#D4E6F1">11:00-12:30pm</td>
+<td bgcolor="#D1F2EB"></td>
+<td bgcolor="#D5F5E3">Mrs.Marissa Ignacio</td>
+</tr>
+
+
+
+</p>
+</body>
+</html>
